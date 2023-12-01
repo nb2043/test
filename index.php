@@ -1,5 +1,5 @@
 <?php
-echo "selammm";
+echo "selam";
 
 
 ?>
